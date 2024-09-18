@@ -5,3 +5,5 @@
 5. Add assets folder (Models Both ResumeParsingModel and JdParsingModel)
 6. Add sample resumes in testdata folder
 7. Finally flask run to start the server
+
+# BeProject
